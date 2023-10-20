@@ -1,1 +1,6 @@
-# skripsi-deteksi-cacat-kain-2023
+## IMPLEMENTASI CONVOLUTIONAL NEURAL NETWORK UNTUK DETEKSI CACAT KAIN
+
+### DATASET:
+https://drive.google.com/drive/folders/1EuqT8CBe6OA_WlZ5wPlm8MeqCGYKyTXa
+
+#### by NURFAIDAH~~
